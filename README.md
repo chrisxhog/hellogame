@@ -2,6 +2,6 @@
 text-based game
 
 
-game.sh is a bash loop that runs netcat with a specified script
+run game.sh to test the game. gametest.sh and gametest.py are the "game scripts"
 
-so far the test scripts are in python and bash
+change info within game.sh as necessary to run locally
